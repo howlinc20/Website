@@ -15,15 +15,15 @@ role: Assistant Professor of Psychology
 # Organizations/Affiliations
 organizations:
   - name: Trinity College Dublin
-    url: ''
+    url: 'https://www.tcd.ie/psychology/people/academic-staff/howlincl/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include music 
+bio: My research interests centre on understanding the social cognitive mechanisms that can explain the health and wellbeing benefits from engaging with the arts, aesthetics, and creativity.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Autistic Musicality
+  - Music Analgesia
+  - Community Arts for Social Inclusion
 
 education:
   courses:
