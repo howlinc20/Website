@@ -73,9 +73,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
----
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Claire Howlin is an assistant professor of psychology at the Trinity Creative Cognition and Health Lab. Her research interests centre on defining foundational concepts related to arts and health. She leads the creative social cognition group, which exmaines the social and cognitive mechanisms that can explain the health and wellbeing benefits from engaging with the arts, aesthetics, and creativity.
 
