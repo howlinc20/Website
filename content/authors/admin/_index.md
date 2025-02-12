@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Claire Howlin
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Claire
+last_name: Howlin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Psychology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Trinity College Dublin
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include music 
 
 interests:
   - Artificial Intelligence
@@ -27,14 +27,17 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Psychology
+      institution: University College Dublin
+      year: 2020
+    - course: MSc in Music Mind and Brain
+      institution: Goldsmiths College, University of London
+      year: 2016
+    - course: HDip in Psychology
+      institution: Unviersity College Dublin
+      year: 2011
+    - course: BSc in Therapeutic Radiography
+      institution: Trinity College Dublin
       year: 2008
 
 # Social/Academic Networking
@@ -44,13 +47,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'howlinc@tcd.ie'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/dancingresearch
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Pba82bQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -61,10 +64,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'howlinc@tcd.ie'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,4 +77,7 @@ user_groups:
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Claire Howlin is an assistant professor of psychology at the Trinity Creative Cognition and Health Lab. Her research interests centre on defining foundational concepts related to arts and health. She leads the creative social cognition group, which exmaines the social and cognitive mechanisms that can explain the health and wellbeing benefits from engaging with the arts, aesthetics, and creativity.
+
+
+
